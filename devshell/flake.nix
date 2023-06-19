@@ -1,5 +1,5 @@
 {
-  description = "pf-siedler's simple devShell flake template";
+  description = "Simple devShell";
 
   inputs = { flake-utils.url = "github:numtide/flake-utils"; };
 
