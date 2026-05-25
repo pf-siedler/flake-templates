@@ -11,7 +11,7 @@
       flakeParts = {
         path = ./flake-parts;
         description = "template with flake-parts";
-      }
+      };
     };
   };
 }
